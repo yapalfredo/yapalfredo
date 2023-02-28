@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Al, a freelance developer👨‍💻</div>  
+### <div align="center">![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Al, a freelance developer👨‍💻</div>  
   
 
 - 🔭 Currently building my business, AZY Design and Development LLC  
